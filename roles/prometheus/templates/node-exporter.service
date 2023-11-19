@@ -1,5 +1,5 @@
 [Unit]
-Description=Foo
+Description=Node Exporter Service
 
 [Service]
 ExecStart=/opt/node_exporter-1.7.0.linux-amd64
