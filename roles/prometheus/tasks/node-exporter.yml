@@ -14,7 +14,7 @@
     name: node-exporter
     state: restarted
     enabled: yes
-    demon-reload: yes
+    daemon-reload: yes
 
 
 
